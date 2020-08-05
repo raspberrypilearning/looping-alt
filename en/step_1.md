@@ -1,19 +1,25 @@
 ## Introduction
+You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+## Skills you should have
+To complete this Looping sprites project you need to have the following skills which you will have learnt when completing [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden):
+- How to use costumes
+- How to use the `forever`{:class="block3control"} block
 
-### What you will make
+You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
 
+## What you will make
 --- no-print ---
-Add instructions for interacting with the embedded content here.
-
+Click on the green flag to see an example project:
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
+Here's an example project:
+
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
 
 --- collapse ---
@@ -22,17 +28,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer or tablet capable of running Scratch
 
 ### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -41,9 +41,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ How to apply your skills to realise your own project ideas
++ How to debug your program
++ How to reflect on your learning
 
 --- /collapse ---
 
@@ -52,8 +52,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+[Here](http://rpf.io/project-name-go) is a link to the resources for this project.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
 --- /collapse ---
