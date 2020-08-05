@@ -19,6 +19,12 @@ Click `See inside` to investigate how the projects were made. Each sprite has a 
 
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
 
+<div class="scratch-preview">
+    <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
+
 --- /no-print ---
 
 --- print-only ---
