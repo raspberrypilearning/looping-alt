@@ -1,7 +1,44 @@
-## What next?
+## Choose your theme
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+Now it is time to start working on your own project.
 
-![ProjectName project](images/projectname-project.png)
+You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- task ---
+Create a new Scratch project to start trying out your ideas.
+
+--- /task ---
+
+--- task ---
+Take 5 minutes to think about **your** Looping sprites project. 
+
++ What mood do you want to create? Relaxing, Energising, Funny?
++ Look at the sprites and backdrops that are available in Scratch.
++ Which backdrop will you choose? 
++ Which sprite(s) will you choose? (You will just start with one sprite and add more if you have time.)
+
+--- /task ---
+
+--- task ---
+Choose and add a backdrop of your choice. You can change it later as you develop your idea. 
+
+[[[generic-scratch3-backdrop-from-library]]]
+--- /task ---
+
+--- task ---
+Choose and add your first sprite. You will be able to add more sprites later if you have time. 
+
+[[[generic-scratch-sprite-from-library]]]
+--- /task ---
+
+--- task ---
+Give your project a title that matches your theme. 
+
+**generic-scratch-title with gif**
+
+--- /task ---
+
+*[algorithm]: A set of precise instructions for performing a task.
+
+--- save ---
+
