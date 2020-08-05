@@ -9,6 +9,8 @@ You can get ideas for your own looping sprites project by investigating projects
 
 Have a look at these [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} from the Raspberry Pi Foundation Scratch studio.
 
+Click the green flag on a project to see the code run.
+
 Click `See inside` below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
@@ -53,4 +55,3 @@ Click `See inside` to investigate how the projects were made. Each sprite has a 
 
 --- /task ---
 
-**unused markdown** ![See inside icon](images/see_inside.png)
