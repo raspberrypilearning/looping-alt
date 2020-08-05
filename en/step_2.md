@@ -1,16 +1,37 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.
-
-Get ideas for your own Looping sprites project by investigating projects created by others. 
+You are going to create a looping sprites project to change someone's mood. The theme of the project, how it looks and the way the sprites move is up to you. 
 
 --- task ---
+
+You can get ideas for your own looping sprites project by investigating projects created by others.
+
+--- no-print ---
+
+Have a look at these [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} from the Raspberry Pi Foundation Scratch studio.
+
+Click `See inside` to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
+</div>
+
+![See inside icon](https://scratch.mit.edu/studios/27014672){:target="_blank"}
+
+--- /no-print ---
+
+--- print-only ---
+
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside` to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
-**Tip:** Professional programmers explore, and are inspired by, code created by other programmers.
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 ![See inside icon](images/see_inside.png)
+
+--- /print-only ---
 
 --- /task ---
 
@@ -51,3 +72,5 @@ Give your project a title that matches your theme.
 *[algorithm]: A set of precise instructions for performing a task.
 
 --- save ---
+
+**unused markdown** ![See inside icon](images/see_inside.png)
