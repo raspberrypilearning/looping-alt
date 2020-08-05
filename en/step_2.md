@@ -1,4 +1,4 @@
-## Choose your theme
+## Get inpsiration
 You are going to create a looping sprites project to change someone's mood. The theme of the project, how it looks and the way the sprites move is up to you. 
 
 --- task ---
